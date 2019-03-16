@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Venue Express</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="button_register">Register</string>
+    <string name="tv_create">Create new account</string>
+    <string name="button_login">Login</string>
+    <string name="button_sendEmail">Send Email</string>
+    <string name="tv_forgot">Forgot Password?</string>
+    <string name="venue_name">Enter Venue Name</string>
+    <string name="menue_name">Enter Menue Name</string>
+    <string name="menue_price">Enter Menue Price</string>
+    <string name="menue_quantity">Enter Menue Quantity</string>
+    <string name="venue_location">Enter Venue Location</string>
+    <string name="button_register_venue">Register Venue</string>
+    <string name="button_register_menue">Register Menue</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about_detail">We are developing an online booking android application that allows the user to search for a particular venue according to a specific date, time, day or geographical area, and further depending upon the availability of that particular venue, the user can request the service provider for the booking of that particular venue i.e. banquet or a restaurant. The purpose of this application is to provide a platform to the people that reduces the problems faced by the people during the planning or their life events just because of the unavailability of the suitable venues.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">POPULAR</string>
+    <string name="tab_text_2">WEDDING</string>
+    <string name="tab_text_3">PARTY</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="organization_name">Organization/Office Name</string>
+    <string name="person_name">Contact Person Name</string>
+    <string name="address">Full Address</string>
+    <string name="note">(Note: Please provide us the full address of your organization/office)</string>
+    <string name="sp_registration">Register as Service provider</string>
+    <string name="venueAddress">Canal Bank Rd, Punjab University New Campus, Lahore, Punjab</string>
+    <string name="description">A perfect venue for you to conduct different seminars, workshops and training sessions. And a perfect
+        place to polish your Life skills as a computer science student.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="customer">I AM CUSTOMER</string>
+    <string name="service_provider">I AM SERVICE PROVIDER</string>
+    <string name="title_activity_sphome1">SPHome1Activity</string>
+
+
+</resources>

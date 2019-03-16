@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/container"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <Button
+        android:id="@+id/customer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/customer"
+        android:textColor="@color/white"
+        android:background ="@drawable/roundedbutton"/>
+
+    <Button
+        android:id="@+id/serviceProvider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/service_provider"
+        android:textColor="@color/white"
+        android:background ="@drawable/roundedbutton"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

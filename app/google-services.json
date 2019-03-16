@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "935510896355",
+    "firebase_url": "https://venue-express-f8d7f.firebaseio.com",
+    "project_id": "venue-express-f8d7f",
+    "storage_bucket": "venue-express-f8d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935510896355:android:c85fd2ccdae9dd35",
+        "android_client_info": {
+          "package_name": "com.tech12.venueexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935510896355-tslpm1fkh0ql2ut743hgln4masi75npr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_5FsNic334XYpR9fKHEzDctwIBtBgaSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
